@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-mediastreamtrack": "^1.0.0"
+  }
+}
